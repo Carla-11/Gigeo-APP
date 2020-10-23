@@ -1,0 +1,24 @@
+.autor-section{
+    margin:0;
+    align-items: center;
+}
+
+.autor-section_descripcion{
+    display: flex;
+    align-items:stretch;
+    justify-content: center;
+   
+}
+
+p{
+    color:$gray;
+}
+
+.video-section{
+    padding: 1% 7%;
+}
+
+.video-section_lista{
+    display: flex;
+    
+}

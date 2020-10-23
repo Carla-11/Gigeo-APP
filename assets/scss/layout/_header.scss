@@ -1,0 +1,30 @@
+.hero_section{
+
+}
+
+a{
+    color:$black;
+    
+    &:hover{
+        color:$gray;
+    }
+
+    i{
+        font-size: 20px;
+    }
+
+}
+
+.navbar-nav > li{
+    padding: 0px 10px;
+}
+
+.container_span{
+    font-size: $small;
+    bottom:25px;
+    position: relative;
+}
+
+.navigation{
+    background: $white;
+}
